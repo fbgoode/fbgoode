@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Fede Báez</h1>
 <h3 align="center">A passionate full stack developer from Spain</h3>
 
-- 🌱 I’m currently learning **Laravel**
+- 🌱 I’m currently learning **AWS**
 
 - 📫 How to reach me **info@fbaez.com**
 
